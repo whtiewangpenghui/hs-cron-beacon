@@ -1,2 +1,3 @@
-# hs-cron-beacon
-Scheduled wake beacon (cron liveness probe)
+﻿# hs-cron-beacon
+
+Public cron liveness probe. No secrets, no outbound calls.
